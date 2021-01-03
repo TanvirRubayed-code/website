@@ -1,0 +1,29 @@
+
+body{
+    margin:3%;
+    background-color: rgb(238, 238, 238);
+}
+h1{
+    color: rgb(0, 223, 111);
+    text-align: center;
+    background-color: rgb(224, 224, 224);
+    border:1px solid aqua;
+    border-radius: 2px;
+    margin:auto 35%;
+    padding: 20px;
+}
+h1:hover{
+    background-color: aquamarine;
+    color: brown;
+}
+p{
+    background-color: aqua;
+    color: black;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin: 40px;
+    padding:20px;
+    font-family: monospace;
+    font-size: 20px;
+
+}
